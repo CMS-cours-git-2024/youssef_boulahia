@@ -1,1 +1,0 @@
-#not a git repository (or any of the parent directories): .git pas depot et de depot 
